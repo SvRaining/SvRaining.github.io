@@ -11,5 +11,4 @@ Below is my profile picture.
 
 
 
-{% figure right ../../../../../about/profile.JPG 300 %}
-
+<img src="./profile.JPG" alt="profile" style="zoom:33%;" />
